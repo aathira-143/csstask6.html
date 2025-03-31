@@ -1,3 +1,22 @@
-.center {
-    text-align: center;
-}
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> CSS task 6 </title>
+        <style>
+          
+          p
+          {
+            border: 100px solid rgb( 240,110,20);
+            height: 100px;
+            background: #494c4d;
+            width: 90px;
+          }
+            
+        </style>
+    </head>
+    <body>
+
+        <div style="text-align: center;"><p></p></div>
+    
+    </body>
+</html>
